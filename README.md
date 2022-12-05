@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nidhanshusharma
+- 👀 I’m interested in Web and Apps
+- 🌱 I’m currently learning Angular and Android
+- 💞️ I’m looking to collaborate on Nothing for now
+- 📫 How to reach me thenidhanshusharma@gmail.com
